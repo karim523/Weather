@@ -1,0 +1,44 @@
+.my-bg-color,.navbar{
+    background-color: #1e202b !important;
+}
+.my-background{
+    background-image: url(../images/banner.png);
+    background-position: center;
+    background-size: cover;
+}
+.my-text-color{
+    color: #757575 !important;
+}
+.my-bg-color-footer{
+    background-color:#262936;
+}
+input::placeholder {
+    color: #757575 !important ; 
+}
+.social-icons span:hover{
+background-color:#009ad8 !important;
+color: white !important; 
+
+}
+
+.bg-second-day{
+    background-color: #262936;
+}
+.bg-title-second-day{
+background-color: #222530;
+}
+.bg-third-day,.bg-current-day{
+background-color: #323544;
+}
+.bg-title-third-day,.bg-title-current-day {
+    background-color: #2d303d;
+}
+.cr{
+    cursor: pointer;
+}
+.nav-link:hover{
+    border: 2px solid #009ad8;
+    border-radius: 40px;
+    padding-inline:20px !important;
+    color:#009ad8 !important ;
+}
